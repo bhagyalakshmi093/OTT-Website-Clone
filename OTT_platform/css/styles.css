@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #181818;
+    color: #fff;
+}
+
+header {
+    background-color: #111;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#search {
+    padding: 5px;
+    font-size: 16px;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.content-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content-grid .item {
+    width: 200px;
+    margin: 10px;
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }

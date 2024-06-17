@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "title": "Movie 1",
+        "type": "movie",
+        "category": "trending",
+        "description": "welcome to movie for Movie 1",
+        "image": "path/to/image.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Series 1",
+        "type": "series",
+        "category": "trending",
+        "description": "welcome new movie for Series 1",
+        "image": "path/to/image2.jpg"
+    }
+    // More content objects
+]
